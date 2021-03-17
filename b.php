@@ -62,7 +62,7 @@
                                     <a class="nav-link" href="#"></a><h4><p style="color: rgb(0, 2, 128);"></p></h4></a>
                                   </li>
                                   <li class="nav-item">
-                                    &nbsp;&nbsp;<a class="nav-link active" aria-current="page" href="index.html"><h4><p style="color: rgb(2, 0, 128);">Book</p></h4></a>
+                                    &nbsp;&nbsp;<a class="nav-link active" aria-current="page" href="index.php"><h4><p style="color: rgb(2, 0, 128);">Book</p></h4></a>
                                   </li>
                                   <li class="nav-item">
                                     <a class="nav-link" href="#"></a><h4><p style="color: rgb(28, 0, 128);"></p></h4></a>
@@ -71,7 +71,7 @@
                                     <a class="nav-link" href="#"></a><h4><p style="color: rgb(45, 0, 128);"></p></h4></a>
                                   </li>
                                   <li class="nav-item">
-                                    <a class="nav-link" href="index.html"></a><h4><p style="color: rgb(34, 0, 128);">Book</p></h4></a>
+                                    <a class="nav-link" href="index.php"></a><h4><p style="color: rgb(34, 0, 128);">Book</p></h4></a>
                                   </li>
                                   <li class="nav-item">
                                     <a class="nav-link" href="#"><h4><p style="color: rgb(28, 0, 128);"></p></h4></a>
@@ -80,7 +80,7 @@
                                     <a class="nav-link" href="#"></a><h4><p style="color: rgb(13, 0, 128);"></p></h4></a>
                                   </li>
                                   <li class="nav-item">
-                                    <a class="nav-link" href="index.html"><h4><p style="color: rgb(13, 0, 128);">Home</p></h4></a>
+                                    <a class="nav-link" href="index.php"><h4><p style="color: rgb(13, 0, 128);">Home</p></h4></a>
                                   </li>
                                   <li class="nav-item">
                                     <a class="nav-link" href="#"></a><h4><p style="color: rgb(9, 0, 128);"></p></h4></a>
@@ -103,7 +103,7 @@
                     <div class="card-body">
                       <h5 class="card-title">Man's Search for Meaning Quotes</h5>
                       <p class="card-text">“Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.”</p>
-                      <a href="book1.html" class="btn btn-primary">Go somewhere</a>
+                      <a href="book1.php" class="btn btn-primary">Go somewhere</a>
                     </div>
                   </div>
 
@@ -131,7 +131,7 @@
                     <div class="card-body">
                       <h5 class="card-title">The Martian</h5>
                       <p class="card-text">“Yes, of course duct tape works in a near-vacuum. Duct tape works anywhere. Duct tape is magic and should be worshiped.”</p>
-                      <a href="book3.html" class="btn btn-primary">Go somewhere</a>
+                      <a href="book3.php" class="btn btn-primary">Go somewhere</a>
                     </div>
                   </div>
 
